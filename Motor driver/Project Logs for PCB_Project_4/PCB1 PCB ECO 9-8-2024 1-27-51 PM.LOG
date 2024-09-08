@@ -1,0 +1,16 @@
+Change Component Comment : Designator=* Old Comment=L293D New Comment=
+Change Component Comment : Designator=* Old Comment=Motor2 New Comment=
+Change Component Comment : Designator=* Old Comment=Motor New Comment=
+Change Component Designator: OldDesignator=* NewDesignator=L293D
+Change Component Designator: OldDesignator=* NewDesignator=Motor 1
+Change Component Designator: OldDesignator=* NewDesignator=Motor 2
+Added Pin To Net: NetName=NetL293D_3 Pin=L293D-3
+Added Net: Name=NetL293D_3
+Added Pin To Net: NetName=NetL293D_6 Pin=L293D-6
+Added Net: Name=NetL293D_6
+Added Pin To Net: NetName=NetL293D_11 Pin=L293D-11
+Added Net: Name=NetL293D_11
+Added Pin To Net: NetName=NetL293D_14 Pin=L293D-14
+Added Net: Name=NetL293D_14
+Added Member To Class: ClassName=Sheet1 Member=Component L293D
+Added Member To Class: ClassName=Sheet1 Member=Component Motor 1

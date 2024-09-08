@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=Connector-2
+Removed Pin From Net: NetName=Net*_2 Pin=LED-1
+Removed Pin From Net: NetName=GND Pin=LED-2
+Removed Pin From Net: NetName=Net*_1 Pin=Resistor-1
+Removed Pin From Net: NetName=Net*_2 Pin=Resistor-2
+Removed Pin From Net: NetName=Net*_1 Pin=Switch-2
+Change Component Designator: OldDesignator=Connector NewDesignator=*
+Change Component Designator: OldDesignator=LED NewDesignator=*
+Added Component: Designator=*(Resistor0603)
+Added Component: Designator=*(Swicth)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Add Pin To Net: Unknown Pin: Pin *-35
+Add Pin To Net: Unknown Pin: Pin *-40
+Add Pin To Net: Unknown Pin: Pin *-41
+Added Net: Name=Net*_4

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=Net*_6 Pin=*-1
+Removed Pin From Net: NetName=Net*_11 Pin=*-1
+Removed Pin From Net: NetName=Net*_3 Pin=*-2
+Removed Pin From Net: NetName=Net*_14 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-53
+Add Pin To Net: Unknown Pin: Pin *-54
+Add Pin To Net: Unknown Pin: Pin *-55
+Add Pin To Net: Unknown Pin: Pin *-56
+Added Member To Class: ClassName=Sheet1 Member=Component * L293D
+Added Member To Class: ClassName=Sheet1 Member=Component * Motor

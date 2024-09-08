@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net*_3 Pin=L293D-9
+Removed Pin From Net: NetName=Net*_6 Pin=Motor1-1
+Removed Pin From Net: NetName=Net*_3 Pin=Motor1-2
+Removed Pin From Net: NetName=Net*_11 Pin=Motor2-1
+Removed Pin From Net: NetName=Net*_14 Pin=Motor2-2
+Change Component Designator: OldDesignator=L293D NewDesignator=*
+Change Component Designator: OldDesignator=Motor1 NewDesignator=*
+Change Component Designator: OldDesignator=Motor2 NewDesignator=*
+Add Pin To Net: Unknown Pin: Pin *-53
+Add Pin To Net: Unknown Pin: Pin *-54
+Add Pin To Net: Unknown Pin: Pin *-55
+Add Pin To Net: Unknown Pin: Pin *-56
+Added Pin To Net: NetName=+5 Pin=*-9
+Added Pin To Net: NetName=+5 Pin=*-16
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=*-8
+Added Net: Name=+12
+Added Member To Class: ClassName=Sheet1 Member=Component * L293D
+Added Member To Class: ClassName=Sheet1 Member=Component * Motor
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

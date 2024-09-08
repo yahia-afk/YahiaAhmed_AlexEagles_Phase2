@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=Connector NewDesignator=*
+Change Component Designator: OldDesignator=R NewDesignator=*
+Added Component: Designator=*(Swicth)
+Added Component: Designator=*(LED)
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Add Pin To Net: Unknown Pin: Pin *-4
+Add Pin To Net: Unknown Pin: Pin *-34
+Added Net: Name=GND
+Added Net: Name=Net*_35
+Added Rule: Name=Schematic Supply Nets
