@@ -1,0 +1,4 @@
+Added Component: Designator=*(Motor)
+Added Component: Designator=c1(Capacitor0602)
+Add Pin To Net: Unknown Pin: Pin c1-24
+Add Pin To Net: Unknown Pin: Pin c1-25

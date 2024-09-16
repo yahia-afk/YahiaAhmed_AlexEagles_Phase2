@@ -1,0 +1,27 @@
+Add Component: Footprint Not Found Capacitor0602
+Add Component: Footprint Not Found Capacitor0602
+Add Component: Footprint Not Found Capacitor0602
+Add Component: Footprint Not Found Motor
+Add Component: Footprint Not Found Resistor0603
+Added Component: Designator=U?(DRV8874)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U?-5
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-15
+Added Pin To Net: NetName=GND Pin=U?-17
+Added Net: Name=GND
+Added Pin To Net: NetName=Netc2_40 Pin=U?-12
+Added Net: Name=Netc2_40
+Added Pin To Net: NetName=Netc3_30 Pin=U?-13
+Added Net: Name=Netc3_30
+Added Pin To Net: NetName=Netc3_31 Pin=U?-14
+Added Net: Name=Netc3_31
+Added Pin To Net: NetName=Netr_22 Pin=U?-6
+Added Net: Name=Netr_22
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16
+Added Pin To Net: NetName=VM Pin=U?-11
+Added Net: Name=VM
